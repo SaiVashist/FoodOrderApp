@@ -44,3 +44,16 @@
   background-color: #8a2b06;
   color: white;
 }
+
+.link{
+  font: inherit;
+  color: white;
+  cursor: pointer;
+  background-color: transparent;
+  border: 1px solid #8a2b06;
+  padding: 0.5rem 2rem;
+  border-radius: 25px;
+  margin-left: 1rem;
+  text-decoration: none;
+  background-color: #8a2b06;
+}
